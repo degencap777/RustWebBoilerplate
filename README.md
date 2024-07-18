@@ -1,11 +1,5 @@
 # Rust Web Boilerplate
 
-[![Build Status](https://travis-ci.org/svenstaro/rust-web-boilerplate.svg?branch=master)](https://travis-ci.org/svenstaro/rust-web-boilerplate)
-[![codecov](https://codecov.io/gh/svenstaro/rust-web-boilerplate/branch/master/graph/badge.svg)](https://codecov.io/gh/svenstaro/rust-web-boilerplate)
-[![lines of code](https://tokei.rs/b1/github/svenstaro/rust-web-boilerplate)](https://github.com/svenstaro/rust-web-boilerplate)
-[![license](http://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/svenstaro/rust-web-boilerplate/blob/master/LICENSE)
-
-
 ## About
 This is a boilerplate project made using best practices for getting started quickly
 in a new project. I made this for myself but maybe it will help someone else. Pull
